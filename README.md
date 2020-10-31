@@ -1,4 +1,4 @@
-# Random-Jokes
+# Random Programming Joke Generator
 Created a random joke generator as a part of [Scrimba's](https://scrimba.com/) Frontend Course. 
 
 
